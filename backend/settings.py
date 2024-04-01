@@ -138,4 +138,4 @@ CRISPY_ALLOWED_TEMPLATE_PACKS = "bootstrap5"
 
 CRISPY_TEMPLATE_PACK = "bootstrap5"
 
-CSRF_TRUSTED_ORIGINS=['https://5640-41-101-92-109.ngrok-free.app']
+CSRF_TRUSTED_ORIGINS=['https://*******.ngrok-free.app']
